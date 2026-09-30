@@ -93,7 +93,7 @@ No início do `bot_com_log.py`:
 
 | Variável | Descrição | Padrão |
 |---|---|---|
-| `MODELO` | Nome do modelo no Ollama | `llama3.1:8b` |
+| `MODELO` | Nome do modelo no Ollama | `aiconjured/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive-MTP-GGUF-NVFP4:latest` |
 | `MAX_MENSAGENS_HISTORICO` | Quantas mensagens recentes são enviadas ao modelo | `20` |
 | `LIMITE_TELEGRAM` | Tamanho máximo de cada mensagem enviada | `4000` |
 | `ARQUIVO_LOG` | Arquivo onde o log é gravado | `bot.log` |
