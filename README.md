@@ -151,4 +151,5 @@ BotOllama/
 
 ## Licença
 
-Defina a licença do projeto (por exemplo, MIT) e adicione um arquivo `LICENSE`.
+Creative Commons Atribuição
+CC BY
