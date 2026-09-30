@@ -15,7 +15,7 @@ Bot de Telegram que responde mensagens usando um modelo de linguagem rodando **l
 
 - Python 3.10 ou superior
 - [Ollama](https://ollama.com/download) instalado e em execução
-- Um modelo baixado no Ollama (por exemplo, `llama3.1:8b`)
+- Um modelo baixado no Ollama (por exemplo, `aiconjured/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive-MTP-GGUF-NVFP4:latest`)
 - Um bot criado no Telegram com o [@BotFather](https://t.me/BotFather)
 
 ## Instalação
@@ -50,7 +50,7 @@ pip install -r requirements.txt
 ### 1. Baixe um modelo no Ollama
 
 ```bash
-ollama pull llama3.1:8b
+ollama pull aiconjured/Qwen3.5-9B-Uncensored-HauhauCS-Aggressive-MTP-GGUF-NVFP4:latest
 ollama list
 ```
 
